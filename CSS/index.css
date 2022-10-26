@@ -1,0 +1,171 @@
+.body {
+    font-family: 'Fredoka One', 'Roboto';
+    font-family: 'Roboto', sans-serif;
+}
+
+/* subscribe*/
+.subscribe {
+    background-color: #E26C26;
+    height: 50px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+    font-family: 'Fredoka One', 'Roboto';
+    z-index: 1;
+}
+
+.subPromo {
+    margin-bottom: 0px;
+    margin-top: 8px;
+}
+
+/* Navigation */
+.customNav {
+    width: 100%;
+    background-color: white !important;
+    z-index: 2;
+    box-shadow: 5px 10px 18px #7a7a7a;
+    padding: 0px;
+
+}
+
+.navbar-brand img {
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100px;
+}
+
+.navbar-toggler {
+    border: 0px;
+}
+
+.nav-link {
+    font-family: 'Fredoka One', 'Roboto';
+    background-color: #E26C26;
+    color: white !important;
+    text-align: center;
+}
+
+
+/* carousel */
+
+.carousel-inner {
+    padding-bottom: 20px;
+}
+
+/* hero */
+
+.section {
+    padding: 16px;
+
+}
+
+ol,
+ul,
+dl {
+    margin-top: 0;
+    margin-bottom: 4rem;
+}
+
+.card-img-top {
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.card {
+    border: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: auto;
+
+}
+
+.titleCard {
+    padding-top: 264px;
+    text-align: center;
+    font-family: 'Fredoka One', 'Roboto';
+    color: white;
+    font-weight: 100;
+
+}
+
+.footerBody {
+    background-color: #E26C26 !important;
+    height: 200px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*------------------saved---------------------------*/
+
+.signUp {
+    text-align: center;
+    padding-top: 25px;
+    
+}
+.signUpDetail {
+    padding: 15px;
+    font-family:'Fredoka One', 'Roboto';
+    
+}
+.signUpcolor {
+    color: #E26C26;
+}
+.shareEvent{
+    padding: 15px;
+}
+.postEvent {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.savedData {
+    padding: 15px;
+}
+.savedCard {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white !important ;
+}
+.card-img-overlay{
+    padding: 10px 5px 10px 5px
+}
+.mySavedTitle{
+    padding-right: 120px;
+}
+.mySavedImg {
+    padding-left: 80px;
+    width: 31px;
+}
+
+
+
+/*------------------Activity Page-----------------------------*/
+
+.activityCardText {
+    padding-top: 1px;
+
+}
+.activityCardOverlay {
+    padding: 41px 5px 5px 5px;
+}
+.activityGrid {
+    padding-top: 5px;
+}
+.activityHeartAdd{
+    align-self: center;
+}
+
+.activityDetail{
+    text-align: left;
+    padding-top: 105px;
+}
+.activityGridRow{
+    padding: 15px 10px 15px 10px;
+}
+
+
+.activityPageHading {
+    text-align: center;
+    padding-top: 25px;
+    
+}
